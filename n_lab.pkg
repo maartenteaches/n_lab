@@ -1,0 +1,8 @@
+v 0.1.0
+d 'N_LAB': retain nth value label
+d 
+d Distribution-Date:   20221018
+d License: Creative Commons Attribution 4.0
+d 
+F n_lab.ado
+F n_lab.sthlp
